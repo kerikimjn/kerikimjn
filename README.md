@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kerikimjn
+- 👋 Hi, I’m Karima Nizamova
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React js and Type Script
 - 💞️ I’m looking to collaborate on websites 
